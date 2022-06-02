@@ -32,6 +32,8 @@ I am a Full Stack Developer student <img src="https://media.giphy.com/media/WUlp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### :fire: My Stats :
