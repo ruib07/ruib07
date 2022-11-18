@@ -10,7 +10,7 @@
 
 I am a Full Stack Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
-- :telescope: I’m studying web development and I´m learning frondend and backend to be a full stack developer.
+- :telescope: I’m studying web development and I´m learning frontend and backend to be a full stack developer.
 
 - :seedling: Management and programming of computer systems ex-student.
 
