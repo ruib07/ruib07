@@ -8,11 +8,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
+I am a .NET Developer Trainee <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
-- :telescope: I’m studying web development and I´m learning frontend and backend to be a full stack developer.
+- :telescope: I’m studying web development and I´ve learned frontend, backend and now I´m learning ASP.NET MVC to be a successful .NET Developer.
 
-- :seedling: Management and programming of computer systems ex-student.
+- :seedling: In High School i study Management and programming of computer systems.
 
 - :zap: In my free time, I study to be the best on the business.
 
