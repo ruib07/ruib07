@@ -8,11 +8,11 @@
 
 ### :man_technologist: About Me :
 
-I am a .NET Developer Trainee <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
+I am a Full-Stack Developer Trainee <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
-- :telescope: I’m studying web development and I´ve learned frontend, backend and now I´m learning ASP.NET MVC to be a successful .NET Developer.
+- :telescope: I’m studying Web Development and I´ve learned Frontend with HTML, CSS, JS and Angular and for Backend I´ve learned C#, ASP.NET MVC and SQL.
 
-- :seedling: In High School i study Management and programming of computer systems.
+- :seedling: In High School i studied Management and programming of computer systems.
 
 - :zap: In my free time, I study to be the best on the business.
 
@@ -25,6 +25,7 @@ I am a .NET Developer Trainee <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-plain.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" title="ReactNative" alt="ReactNative" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" title="c#" alt="c#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="netcore" alt="netcore" width="40" height="40"/>&nbsp;
