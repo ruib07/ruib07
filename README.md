@@ -10,11 +10,11 @@
 
 I am a Full-Stack Developer Trainee <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
-- :telescope: I’m studying Web Development and I´ve learned Frontend with HTML, CSS, JS, TS and Angular and for Backend I´ve learned C#, ASP.NET MVC and SQL.
+- :telescope: I'm working in the mobile development industry. I make apps with React Native and JavaScript for the frontend and C#, .Net Web API and SQL for the backend. 
 
-- :seedling: In High School i studied Management and programming of computer systems.
+- :seedling: I´ve studied n High School Management and programming of computer systems and now I´m studying Web Development.
 
-- :zap: In my free time, I study to be the best on the business.
+- :zap: I know how to work on the mobile, software or web development which makes me a programmer who can work on the best tech areas.
 
 ---
 
