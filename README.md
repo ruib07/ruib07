@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ruibarreto07@outlook.com**
 
-- 🌱 I’m currently learning **Mobile and Web Development**
+- 🌱 I’m currently learning **Mobile, Software and Web Development**
 
 - 💬 Ask me about **React Native, Angular and C# .NET**
 
