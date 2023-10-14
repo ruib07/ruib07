@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **ruibarreto07@outlook.com**
 
-- 🌱 I’m currently learning **Mobile, Software and Web Development**
+- 🌱 I’m currently learning **Web, Software and Mobile Development**
 
-- 💬 Ask me about **Angular, C#, .NET and SQL**
+- 💬 Ask me about **C#, .NET and SQL**
 
 - ⚡ Fun fact **I love studying new programming languages and tecnologies**
 
