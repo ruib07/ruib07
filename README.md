@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rui</h1>
-<h3 align="center">A passionate React Native Developer from Portugal</h3>
+<h3 align="center">A passionate Backend Developer from Portugal</h3>
 
-- 🔭 I’m currently working at **the mobile development industry**
+- 🔭 I’m currently working at **the web development industry**
 
 - 📫 How to reach me **ruibarreto07@outlook.com**
 
 - 🌱 I’m currently learning **Mobile, Software and Web Development**
 
-- 💬 Ask me about **React Native, Angular and C# .NET**
+- 💬 Ask me about **Angular, C#, .NET and SQL**
 
 - ⚡ Fun fact **I love studying new programming languages and tecnologies**
 
