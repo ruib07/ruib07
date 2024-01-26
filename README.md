@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rui</h1>
-<h3 align="center">A passionate Backend Developer from Portugal</h3>
+<h3 align="center">A passionate Full-Stack Developer from Portugal</h3>
 
 - 🔭 I’m currently working at **the web development industry**
 
 - 📫 How to reach me **ruibarreto07@outlook.com**
 
-- 🌱 I’m currently learning **Web, Software and Mobile Development**
+- 🌱 I’m currently learning **Web and Software Development**
 
-- 💬 Ask me about **C#, .NET and SQL**
-
-- ⚡ Fun fact **I love studying new programming languages and tecnologies**
+- ⚡ I love to code in Angular, C#, .NET and SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
