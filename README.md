@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rui</h1>
 <h3 align="center">A passionate Full-Stack Developer from Portugal</h3>
 
-- 🔭 I’m currently working at **the web development industry**
+- 🔭 I’m currently working at **the software development industry**
 
 - 📫 How to reach me **ruibarreto07@outlook.com**
 
