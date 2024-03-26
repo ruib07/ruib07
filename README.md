@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web and Software Development**
 
-- ⚡ I love to use Angular, C#, .NET and SQL
+- ⚡ I love to use Angular, .NET and SQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
