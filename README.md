@@ -5,9 +5,7 @@
 
 - 📫 How to reach me **ruibarreto07@outlook.com**
 
-- 🌱 I’m currently learning **Web and Software Development**
-
-- ⚡ I love to use React, .NET and SQL
+- ⚡ With main focus on developing with **React, Typescript, Javascript, NodeJS, C#, .NET, SQL Server and PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
