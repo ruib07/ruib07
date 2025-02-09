@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ruibarreto07@outlook.com**
 
-- ⚡ With main focus on developing with **React, Typescript, Javascript, NodeJS, C#, .NET, SQL Server and PostgreSQL**
+- ⚡ With main focus on developing with **React, .NET, Node.JS, SQL Server and PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
