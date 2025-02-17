@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **ruibarreto07@outlook.com**
 
-- ⚡ With main focus on developing web app´s with **React (Typescript), .NET Core/Node.JS, EF Core/Knex, SQL Server/PostgreSQL**
+- ⚡ With main focus on developing web app´s with **React, .NET Core/Node.JS, EF Core/Knex, SQL Server/PostgreSQL**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
