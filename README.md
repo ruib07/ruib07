@@ -10,9 +10,8 @@
 <h3 align="left">My Tech Stack:</h3>
 <p align="left"> 
   <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="50" height="50"/>
-  <img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" alt="efcore" width="50" height="50"/>
-  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="nodejs" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnet" width="50" height="50"/>
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="nodejs" width="40" height="50"/>
   <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" alt="mssql" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="50" height="50"/>
 </p>
