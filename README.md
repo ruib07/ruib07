@@ -1,21 +1,40 @@
-<h1 align="center">Hi 👋, I'm Rui</h1>
-<h3 align="center">A passionate Full-Stack Developer from Portugal</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Rui+Barreto!;" />
+</h1>
 
-- 🔭 I’m currently working at **the web/mobile development industry**
+<div align="center">
+<h3>A full-stack software developer passionate about building web and mobile applications.</h3>
+</div>
+<br>
 
-- 📫 How to reach me: **ruibarreto07@outlook.com**
+<div align="center">
+  <a href="mailto:ruibarreto07@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rui-barreto-814071248" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- ⚡ With main focus on developing web app´s with **React, .NET/Node.js, EF Core, SQL Server/PostgreSQL**
+<hr>
 
-<h3 align="left">My Tech Stack:</h3>
-<p align="left"> 
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnet" width="50" height="50"/>&nbsp;&nbsp; 
-  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" alt="nodejs" width="40" height="50"/>&nbsp;&nbsp; 
-  <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" alt="mssql" width="50" height="50"/>&nbsp;&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="50" height="50"/>
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nodejs,express,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,jest,docker,git" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruib07&show_icons=true&locale=en&layout=compact" alt="ruib07" /></p>
+<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruib07&" alt="ruib07" /></p>
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ruib07&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="RuiBarreto's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ruib07&theme=transparent&count_private=true&border_radius=10&locale=en" alt="RuiBarreto's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ruib07&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="RuiBarreto's Most Used Languages" />
+</div>
