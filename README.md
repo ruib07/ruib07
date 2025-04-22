@@ -23,8 +23,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nodejs,express,postgres,mysql" />
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,jest,docker,git" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,ts,js,tailwind,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,jest,postgres,mysql,docker,git" />
 </p>
 
 <hr>
